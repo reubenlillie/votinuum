@@ -1,0 +1,3 @@
+[submodule "themes/teller"]
+	path = themes/teller
+	url = https://github.com/reubenlillie/teller.git
