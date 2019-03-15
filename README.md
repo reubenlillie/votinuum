@@ -2,6 +2,6 @@
 
 Votinuum is an online voting app built with the Hugo static site generator.
 
-Copyright &copy; 2019 [Reuben L. Lillie][rlillie]
+Copyright &copy; 2019 [Shenango Press][shenango]
 
-[rlillie]: https://github.com/reubenlillie
+[shenango]: https://github.com/shenangopress
